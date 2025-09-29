@@ -4,6 +4,7 @@ proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
+* [Tecnologías usadas](#tecnologías-usadas)
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Cecilia Montes
@@ -11,12 +12,19 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* 3 en raya con IA
-* Billetera virtual
-* Simulación de tienda de helado
+* [3 en raya con IA](https://github.com/cimontesm/ED_P1_Grupo06.git) -completado
+* [Billetera virtual](https://github.com/EloyG3186/Walletfy_Back.git) -completado
+* [Simulación de tienda de helado](https://github.com/cimontesm/POO4_PROY2P_Montes_Reyes_Vilema.git) -completado
+## Tecnologías usadas
+* Java (para tienda de helado)
+* JavaFX (para tienda de helado)
+* JavaScript (para billetera virtual)
+* MongoDB (para billetera virtual)
+* Android Studio (para 3 en raya)
 ## Intereses
 * Umamusume Pretty Derby
 * Desarrollo de videojuegos
+
 <!--
 **cimontesm/cimontesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
