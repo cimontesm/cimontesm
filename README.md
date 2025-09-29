@@ -6,17 +6,17 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Cecilia Montes]
-* Ocupación: [Estudiante]
-* Lugar de residencia: [Guayaquil, Ecuador]
+* Nombre: Cecilia Montes
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [3 en raya con IA]
-* [Billetera virtual]
-* [Simulación de tienda de helado]
+* 3 en raya con IA
+* Billetera virtual
+* Simulación de tienda de helado
 ## Intereses
-* [Umamusume Pretty Derby]
-* [Desarrollo de videojuegos]
+* Umamusume Pretty Derby
+* Desarrollo de videojuegos
 <!--
 **cimontesm/cimontesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
