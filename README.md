@@ -10,7 +10,6 @@ proyectos y mis intereses.
 * Nombre: Cecilia Montes
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Mi sitio](https://cimontesm.github.io/cimontesm/)
 ## Proyectos
 * [3 en raya con IA](https://github.com/cimontesm/ED_P1_Grupo06.git) -completado
 * [Billetera virtual](https://github.com/EloyG3186/Walletfy_Back.git) -completado
