@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Mi sitio personal
+# Mi sitio personal 💫
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
@@ -8,14 +6,17 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: [Cecilia Montes]
+* Ocupación: [Estudiante]
+* Lugar de residencia: [Guayaquil, Ecuador]
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* [3 en raya con IA]
+* [Billetera virtual]
+* [Simulación de tienda de helado]
 ## Intereses
-* [Lista de tus intereses]
+* [Umamusume Pretty Derby]
+* [Desarrollo de videojuegos]
 <!--
 **cimontesm/cimontesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
